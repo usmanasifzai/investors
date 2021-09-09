@@ -15,3 +15,7 @@ If all goes well, you should be able to start project with
 ```sh
 npm start
 ```
+
+### Pages
+- Welcome page having link to investors
+- Investors page having details of investors
